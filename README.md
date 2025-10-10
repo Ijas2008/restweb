@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-## Date:08.10.2025
+## Date:10.10.2025
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -429,7 +429,7 @@ background-color:  #2a4d69;
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2025-10-10 143119.png>)
+![alt text](<ijas/restapp/static/Screenshot 2025-10-10 143119.png>)
 ![alt text](<ijas/restapp/static/Screenshot 2025-10-08 213522.png>)
 ![alt text](<ijas/restapp/static/Screenshot 2025-10-08 213550.png>)
 ![alt text](<ijas/restapp/static/Screenshot 2025-10-08 213615.png>)
