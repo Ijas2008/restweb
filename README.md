@@ -61,7 +61,7 @@ res.html
         <a href="menu.html" class="btn">Explore Our Menu</a>
         </center>
         <h1 id="i">IJAS J (25007615)</h1>
-        
+        <p>Copyright &#169; 2025 My Webserver. All rights reserved</p>
     </div>
 </body>
 </html>
