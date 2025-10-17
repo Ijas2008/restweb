@@ -336,7 +336,7 @@ footer {
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2025-10-16 150400.png>)
+![alt text](<Screenshot 2025-10-17 084921.png>)
 ![alt text](<Screenshot 2025-10-16 150425.png>)
 
 ## RESULT:
